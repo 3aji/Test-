@@ -1,1 +1,2 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/smart-reply-suggestions.ts';
+import '@/ai/flows/content-moderation.ts';
