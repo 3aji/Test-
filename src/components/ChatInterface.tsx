@@ -71,7 +71,7 @@ const ChatInterface = () => {
     <div className="flex flex-col h-full w-full">
       <Card className="flex-1 overflow-hidden">
         <CardHeader>
-          <CardTitle>ConverseAI Chat</CardTitle>
+          <CardTitle>YoloMAMEN</CardTitle>
         </CardHeader>
         <CardContent className="overflow-y-auto h-full" ref={chatContainerRef}>
           <div className="flex flex-col space-y-4 p-4">
